@@ -4,7 +4,7 @@ Projeto desenvolvido nas aulas de React do curso Engenheiro Front-end, da EBAC, 
 
 ## Objetivos
 
-Constuir uma calculadora de conversão monetária utilizando React, Context API e realizar testes unitários.
+Construir uma calculadora de conversão monetária utilizando React, Context API e realizar testes unitários.
 
 ### Realização
 
